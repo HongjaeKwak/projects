@@ -1,6 +1,6 @@
 # projects
 
-## Lpoint
+## 2019 Lpoint 공모전
 
 ## ASAC 6기 DL 프로젝트
 
