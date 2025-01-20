@@ -1,6 +1,8 @@
 # projects
 
 ## 2019 Lpoint 공모전
+- 프로젝트 주제
+- Link : https://github.com/HongjaeKwak/6th_Lpoint
 
 ## ASAC 6기 DL 프로젝트 ChatEmoji
 - 프로젝트 주제 : 대화기반 이모티콘 생성 모델
