@@ -18,7 +18,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 - 프로젝트 주제 : 대화기반 이모티콘 생성 모델
-- 프로젝트 요약 : 
+- 프로젝트 요약 : ChatGPT2를 Fine tuning해서 대화 예측 모델과 Diffusion을 이용해 Fine tuning한 대화기반 이모티콘 생성 모델을 결합한 서비스 제안
 - Link : https://huggingface.co/KHongJae/Chatting_Based_Emoji_Generation_Model
 
 ## ASAC 6기 기업연계 프로젝트 (SK Hynix)
@@ -33,6 +33,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 - 프로젝트 주제 : Wafer Test 결과를 통한 고객 Field Health Data 예측
-- 프로젝트 요약 :
+- 프로젝트 요약 : 히트맵 기반 EDA와 Classification과 Regression을 Stacking 형식으로 합친 모델 구조를 통해 성능향상 
 - Link : https://github.com/jiyoung-data/asac-hynix
 - Dashboard : https://asac-hynix-dashboard.streamlit.app/, https://github.com/jiyoung-data/hynix-streamlit
