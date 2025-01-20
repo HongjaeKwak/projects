@@ -8,8 +8,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-- 프로젝트 주제 : 
-- 프로젝트 요약 : 
+- 프로젝트 주제 : Audience Targeting
+- 프로젝트 요약 : 기존 쇼핑몰 추천 상품에 문제 (다양한 항목을 고려하지 못함, 가장 많이 팔리는 상품만 추천됨)을 해결하기 위해 검색한 상품과 그 상품과 유사한 상품을 구매한 고객의 유사도를 고려하고 고객의 transaction을 이용한 co-occurence matrix를 통해 필터링하여 topK 상품을 제안
 - Link : https://github.com/HongjaeKwak/6th_Lpoint
 
 ## ASAC 6기 DL 프로젝트 ChatEmoji
