@@ -1,6 +1,7 @@
 # projects
 
 ## 2019 Lpoint 공모전
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -31,7 +32,6 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
 - 프로젝트 주제 : Wafer Test 결과를 통한 고객 Field Health Data 예측
 - 프로젝트 요약 : 히트맵 기반 EDA와 Classification과 Regression을 Stacking 형식으로 합친 모델 구조를 통해 성능향상 
 - Link : https://github.com/jiyoung-data/asac-hynix
